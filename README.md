@@ -93,13 +93,13 @@ No ciclo 6 o sistema retorna ao estado seguro após as ações recomendadas pela
 
 O sistema conseguiu:
 
-✔ Monitorar dados da missão
+- Monitorar dados da missão
 
-✔ Gerar alertas automáticos
+- Gerar alertas automáticos
 
-✔ Identificar situações críticas
+- Identificar situações críticas
 
-✔ Realizar tomada de decisão básica
+- Realizar tomada de decisão básica
 
 
 
