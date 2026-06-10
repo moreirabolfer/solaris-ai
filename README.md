@@ -1,5 +1,8 @@
 # Solaris AI Control 
+## Integrantes
 
+Guilherme Detta Soares - 569666
+Henrique Moreira Bolfer - 569514
 
 ## Sobre o projeto
 
@@ -100,9 +103,3 @@ O sistema conseguiu:
 - Identificar situações críticas
 
 - Realizar tomada de decisão básica
-
-
-
-## Integrantes
-
-Nome completo - RM
