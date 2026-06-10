@@ -1,8 +1,8 @@
 # Solaris AI Control 
 ## Integrantes
 
-Guilherme Detta Soares - 569666
-Henrique Moreira Bolfer - 569514
+- Guilherme Detta Soares - 569666
+- Henrique Moreira Bolfer - 569514
 
 ## Sobre o projeto
 
